@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hi from Siva"
 date:   2020-05-13 14:03:25 -0400
-categories: jekyll update
+categories: team
 ---
 
 # Siva Theja Maguluri
