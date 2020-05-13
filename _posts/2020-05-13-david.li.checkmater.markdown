@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "This is David Li"
+date:   2020-05-13 14:19:25 -0400
+categories: team
+---
+# David Li
+David Li is an undergrad majoring in Electrical Engineering and Math at the University of Michigan
