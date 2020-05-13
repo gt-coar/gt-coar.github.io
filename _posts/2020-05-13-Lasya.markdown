@@ -7,4 +7,4 @@ categories: team
 
 #Lasya 
 
-I am a second year student studying Industrial and Systems Engineering, and on track to get a CS minor. 
+I am a second year student studying Industrial and Systems Engineering at Geogia Tech and on track to get a CS minor. 
